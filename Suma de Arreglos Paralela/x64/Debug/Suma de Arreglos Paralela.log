@@ -1,0 +1,5 @@
+﻿  Suma de Arreglos Paralela.cpp
+C:\Users\maximilianomorones\OneDrive\Documentos\Maestría\Tercer Trimestre\Cómputo en la nube\Semana 3\Tarea 1\Suma de Arreglos Paralela\Suma de Arreglos Paralela.cpp(22,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\maximilianomorones\OneDrive\Documentos\Maestría\Tercer Trimestre\Cómputo en la nube\Semana 3\Tarea 1\Suma de Arreglos Paralela\Suma de Arreglos Paralela.cpp(23,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\maximilianomorones\OneDrive\Documentos\Maestría\Tercer Trimestre\Cómputo en la nube\Semana 3\Tarea 1\Suma de Arreglos Paralela\Suma de Arreglos Paralela.cpp(13,5): warning C4101: 'i': variable local sin referencia
+  Suma de Arreglos Paralela.vcxproj -> C:\Users\maximilianomorones\OneDrive\Documentos\Maestría\Tercer Trimestre\Cómputo en la nube\Semana 3\Tarea 1\Suma de Arreglos Paralela\x64\Debug\Suma de Arreglos Paralela.exe
